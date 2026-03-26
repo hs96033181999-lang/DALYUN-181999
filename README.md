@@ -2,22 +2,22 @@
 
 ## About Me 🚀
 
-I'm a **Brand Marketer** transitioning into the intersection of **Cultural & Creative Industries** and **AI Technology**. I focus on bridging the gap between brand storytelling and technical implementation, with a deep interest in how emerging tech reshapes human creativity and economic value.
+I'm a **Brand Marketer** operating at the intersection of **Cultural & Creative Industries** and **AI Technology**. I specialize in bridging the gap between brand storytelling and technical implementation, with a deep interest in how emerging tech reshapes human creativity and economic value.
 
-- 🌱 Currently learning: **Training Open-Source LLMs, Japanese (JLPT Target), and Financial Analysis**
-- 🔭 Working on: **Substack Newsletter** (Sharing insights on tech, culture, and market trends)
-- 🌍 Languages: **Traditional Chinese (Native), English, Japanese (Learning)**
-- 📫 How to reach me: **[xavier.dal.456@gmail.com]**
-- ⚡ Fun fact: **Training to become a certified Ski Instructor in Japan ❄️**
+- 🌱 **Current Focus:** Training Open-Source LLMs, Japanese (JLPT Target), and Financial Market Analysis.
+- 🔭 **Active Projects:** Scaling a high-density Substack newsletter on tech and culture trends.
+- 🌍 **Languages:** Traditional Chinese (Native), English (Professional), Japanese (Elementary), Korean (Elementary) and Spanish(Elementary).
+
+---
 
 ## My Skills & Interests 🧠
 
-### 🏷️ Strategy & Marketing
+### 🏷️ Strategy & Branding
 ![Brand Strategy](https://img.shields.io/badge/Strategy-Brand%20Marketing-E34F26?style=flat-square)
 ![Content Creation](https://img.shields.io/badge/Content-Substack-006f5c?style=flat-square&logo=substack&logoColor=white)
 ![Creative](https://img.shields.io/badge/Industry-Cultural%20%26%20Creative-FFD700?style=flat-square)
 
-### 🛠️ Tools & Tech Exploration
+### 🛠️ Tools & Tech Stack
 ![Miro](https://img.shields.io/badge/-Miro-FFD029?style=flat-square&logo=miro&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -27,17 +27,20 @@ I'm a **Brand Marketer** transitioning into the intersection of **Cultural & Cre
 
 ## Open for Collaboration 🤝
 
-I am actively looking to connect with developers, creators, and entrepreneurs who are passionate about the intersection of **AI, Brand Culture, and Market Innovation**. 
+I am looking to connect with developers, creators, and entrepreneurs passionate about **AI, Brand Culture, and Market Innovation**. 
 
-### 💡 What we can discuss:
-* **AI-Driven Branding:** How open-source LLMs and Generative AI can redefine cultural and creative industries.
-* **Startup Ideation:** Exploring niche market opportunities and building high-density content strategies (e.g., Substack).
-* **Cross-Domain Synergy:** Bridging the gap between technical logic and brand storytelling.
+### 💡 Let's talk about:
+* **AI-Driven Branding:** Redefining creative industries through LLMs and Generative AI.
+* **Startup Ideation:** Niche market opportunities and high-density content strategies.
+* **Cross-Domain Synergy:** Synthesizing technical logic with brand storytelling.
 
-
+---
 
 ## Get in Touch 📬
 
-- **[Substack]**(https://substack.com/@marketing22)
-- **[youtube]**(https://youtube.com/@chill4805?si=EDw-9XWoX3US5maY)
-- **[instagram]**(https://www.instagram.com/aaaa_fei_?igsh=MWFodjN3NnlhZ2U1NA%3D%3D&utm_source=qr)
+I'm always open to brainstorming startup ideas or discussing potential collaborations.
+
+- ✍️ **[Substack]**(https://substack.com/@marketing22) — *Deep dives into tech & culture*
+- 📺 **[YouTube]**(https://youtube.com/@chill4805?si=EDw-9XWoX3US5maY) — *Video content & insights*
+- 📸 **[Instagram]**(https://www.instagram.com/aaaa_fei_?igsh=MWFodjN3NnlhZ2U1NA%3D%3D&utm_source=qr) — *Life & creative snippets*
+- 📧 **[Email](mailto:xavier.dal.456@gmail.com)** — *For formal inquiries or coffee chats*
